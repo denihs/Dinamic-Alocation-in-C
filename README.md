@@ -1,5 +1,5 @@
 # Dinamic-Alocation-in-C
-Code for make a Dinamic Alocation
+Code for make a Dinamic Alocation of Matrix
 
 ##How to compile
 ```
